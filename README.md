@@ -3,9 +3,9 @@ A graphic designer from Berlin now diving into web development.
 I love meeting new people, learning, and exploring fresh ideas. 
 With a passion for creativity and technology, I'm excited to blend design with coding skills. I'm currently a student at Neue Fische 🐟
 
-- ☕ coffee lover
-- 💃 salsa dancer
-- 🎨 art lover
+- ☕ *coffee lover*
+- 💃 *salsa dancer*
+- 🎨 *art enthusiast*
 
 
 ## 𝗠𝘆 soon 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
