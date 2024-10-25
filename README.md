@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=950&color=F77F50&multiline=true&width=435&lines=Hi+I'm+Isabell!;Frontend+Web+Developer+%26+Graphic+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Barlow&weight=600&size=30&pause=100&color=F77F50&multiline=true&width=600&height=80&lines=Hi+I'm+Isabell%2C;Frontend+Web+Developer+%26+Graphic+Designer!)](https://git.io/typing-svg)
 
 I’m a frontend web developer and graphic designer with over a decade of experience in the design field. I’ve freelanced as a graphic designer in Wellington, New Zealand, and Vancouver, Canada, bringing a global perspective to my work. Recently, I completed an intensive web development bootcamp at Neue Fische, where I learned to code from scratch and discovered new ways to merge my creative and technical expertise.
 
@@ -17,7 +17,7 @@ Looking for someone who’s both creative and tech-savvy? Let’s connect and br
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
 ![SWR](https://img.shields.io/badge/SWR-000000?style=for-the-badge&logo=swr&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
- ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
