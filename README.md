@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Isabell;Frontend+Web+Developer+&+Graphic+Designer)](https://git.io/typing-svg)
-
-# Hi I'm Isabell
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=950&color=F77F50&multiline=true&width=435&lines=Hi+I'm+Isabell!;Frontend+Web+Developer+%26+Graphic+Designer)](https://git.io/typing-svg)
 
 I’m a frontend web developer and graphic designer with over a decade of experience in the design field. I’ve freelanced as a graphic designer in Wellington, New Zealand, and Vancouver, Canada, bringing a global perspective to my work. Recently, I completed an intensive web development bootcamp at Neue Fische, where I learned to code from scratch and discovered new ways to merge my creative and technical expertise.
 
