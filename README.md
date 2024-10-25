@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Barlow&weight=600&size=30&pause=100&color=F77F50&multiline=true&width=600&height=80&lines=Hi+I'm+Isabell%2C;Frontend+Web+Developer+%26+Graphic+Designer!)](https://git.io/typing-svg)
 
-I’m a frontend web developer and graphic designer with over a decade of experience in the design field. I’ve freelanced as a graphic designer in Wellington, New Zealand, and Vancouver, Canada, bringing a global perspective to my work. Recently, I completed an intensive web development bootcamp at Neue Fische, where I learned to code from scratch and discovered new ways to merge my creative and technical expertise.
+I’ve spent over a decade in the design field, freelancing as a graphic designer in Wellington, New Zealand, and Vancouver, Canada, and bringing a global perspective to my work. Recently, I completed an intensive web development bootcamp at Neue Fische, where I learned to code from scratch and discovered new ways to merge my creative and technical expertise.
 
-With a seasoned design background, I bring a sharp eye for detail and a passion for aesthetics to my work. Now, as I step into the world of web development, I’m excited to combine these two skill sets to build user-friendly, visually engaging digital experiences.
+With a seasoned design background, I bring a sharp eye for detail and a passion for aesthetics to my work. With this blend of technical skills and creative vision, I’m excited to build user-friendly, visually engaging digital experiences as I step into the world of web development.
 
 Whether I’m coding responsive web applications or designing intuitive interfaces, I’m dedicated to creating products that balance functionality with style. I believe in the importance of clean code, beautiful design, and, above all, a seamless user experience.
 
