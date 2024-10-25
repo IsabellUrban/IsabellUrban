@@ -1,11 +1,12 @@
-# Hi I'm Isabell :wave:
-A graphic designer from Berlin now diving into web development.  
-I love meeting new people, learning, and exploring fresh ideas. 
-With a passion for creativity and technology, I'm excited to blend design with coding skills. I'm currently a student at Neue Fische 🐟
+# Hi I'm Isabell
+---
+I’m a frontend web developer and graphic designer with over a decade of experience in the design field. I’ve freelanced as a graphic designer in Wellington, New Zealand, and Vancouver, Canada, bringing a global perspective to my work. Recently, I completed an intensive web development bootcamp at Neue Fische, where I learned to code from scratch and discovered new ways to merge my creative and technical expertise.
 
-- ☕ *coffee lover*
-- 💃 *salsa dancer*
-- 🎨 *art enthusiast*
+With a seasoned design background, I bring a sharp eye for detail and a passion for aesthetics to my work. Now, as I step into the world of web development, I’m excited to combine these two skill sets to build user-friendly, visually engaging digital experiences.
+
+Whether I’m coding responsive web applications or designing intuitive interfaces, I’m dedicated to creating products that balance functionality with style. I believe in the importance of clean code, beautiful design, and, above all, a seamless user experience.
+
+Looking for someone who’s both creative and tech-savvy? Let’s connect and bring great ideas to life!
 
 
 ## 𝗠𝘆 soon 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
